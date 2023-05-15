@@ -11,7 +11,7 @@ function calculateWeather(event) {
         $(`#searchedCity`).empty();
         $(`#searchedCity`).append(
             `<div class="p-1 mx-3 m-1 col border-3 bg-info border border-light text-black text-center">
-                <h2 class="p-1">Today's climate in: ${parsedData.name}<img src="http://openweathermap.org/img/w/${parsedData.weather[0].icon}.png"}"></h2>
+                <h2 class="p-1">Today's climate in: ${parsedData.name}<img src="https://openweathermap.org/img/w/${parsedData.weather[0].icon}.png"}"></h2>
                 <ul>
                     <li>Weather: ${parsedData.weather[0].main}</li>
                     <li>Temp: ${parsedData.main.feels_like}°F</li>
@@ -34,7 +34,7 @@ function calculateWeather(event) {
             if (i==3||i==11||i==19||i==27||i==35) {
                 $(`#searched5Days`).append(
                     `<div class="m-1 p-1 col border-3 bg-info border border-light text-black text-center">
-                        <h3><img src="http://openweathermap.org/img/w/${parsedData.list[i].weather[0].icon}.png"}">${parsedData.list[i].dt_txt}PM</h3>
+                        <h3><img src="https://openweathermap.org/img/w/${parsedData.list[i].weather[0].icon}.png"}">${parsedData.list[i].dt_txt}PM</h3>
                         <ul class="text-start">
                             <li>Weather: ${parsedData.list[i].weather[0].main}</li>
                             <li>Temp: ${parsedData.list[i].main.feels_like}°F</li>
