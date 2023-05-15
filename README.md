@@ -14,9 +14,11 @@
 
 A rudimentary weather dashboard app using OpenWeatherMap API. Made using the criteria from Module 6 of my edX Web Development bootcamp.
 
+The assigned aspect that allowed for past searched cities to be remembered inside localStorage was scrapped due to time constraints.
+
 ## Deployment
 
-![Here.]https://noahjralph.github.io/weather-dashboard/
+![Here.](https://noahjralph.github.io/weather-dashboard/)
 
 ## Usage
 
@@ -25,7 +27,7 @@ Deployed on the right is the weather data for that city, as well as a 5-day pred
 
 ## Demonstration
 
-![A gif demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/imgs/demo.PNG)
+![A image demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/img/demo.png)
 
 ## License
 
