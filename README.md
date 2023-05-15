@@ -16,7 +16,7 @@ A rudimentary weather dashboard app using OpenWeatherMap API. Made using the cri
 
 ## Deployment
 
-![Here.]https://noahjralph.github.io/weather-dashboard/
+![Here.](https://noahjralph.github.io/weather-dashboard/)
 
 ## Usage
 
@@ -25,7 +25,7 @@ Deployed on the right is the weather data for that city, as well as a 5-day pred
 
 ## Demonstration
 
-![A gif demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/imgs/demo.PNG)
+[A gif demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/imgs/demo.PNG)
 
 ## License
 
