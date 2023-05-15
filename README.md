@@ -14,6 +14,8 @@
 
 A rudimentary weather dashboard app using OpenWeatherMap API. Made using the criteria from Module 6 of my edX Web Development bootcamp.
 
+The assigned aspect that allowed for past searched cities to be remembered inside localStorage was scrapped due to time constraints.
+
 ## Deployment
 
 ![Here.](https://noahjralph.github.io/weather-dashboard/)
