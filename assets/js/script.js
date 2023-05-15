@@ -2,7 +2,7 @@
 function calculateWeather(event) {
     event.preventDefault();
     let cityName = event.target.elements.cityName.value;
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=imperial&cnt=1&appid=7e64038d345462098cd3594177602462`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=imperial&cnt=1&appid=7e64038d345462098cd3594177602462`)
     .then(function (response) {
         return response.json();
     })
