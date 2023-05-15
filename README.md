@@ -25,7 +25,7 @@ Deployed on the right is the weather data for that city, as well as a 5-day pred
 
 ## Demonstration
 
-![A gif demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/img/demo.png)
+![A image demonstrating the unmatched power of Noah's Weather Dashboard.](./assets/img/demo.png)
 
 ## License
 
